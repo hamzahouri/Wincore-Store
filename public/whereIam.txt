@@ -1,0 +1,4 @@
+28/02/2022
+i'm now at video 155, not implemented
+
+notice 1 : in lesson 153 , the part of data normalization is not implemented (where the shop data is concerted from array to object)
